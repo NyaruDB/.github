@@ -1,6 +1,6 @@
-<h1 align="center">Welcome to Nyaru's Official Github Repository 👋</h1>
+<h1 align="center">Welcome to Nyaru's Official Github Organization 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-3.4.1-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-4.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/NyaruDB/bot#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
@@ -58,8 +58,8 @@ Consider supporting us on patreon for [Nyaru Premium™](https://docs.nyaru.xyz/
 
 ## 📝 License
 
-Copyright © 2021 [Nyaru DB Developers](https://github.com/NyaruDB).<br />
-This project is [UN](https://github.com/NyaruDB/bot/blob/master/LICENSE) licensed.
-> Important: This page is for issues, reports and new feature requests only. Source of Nyaru will remain private as always!
+Copyright © 2022 [Nyaru DB Developers](https://github.com/NyaruDB).<br />
+This project is closed source.
+> Important: This org is for issues, reports and new feature requests only. Source of Nyaru will remain private as always!
 
 ---
