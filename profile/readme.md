@@ -1,14 +1,24 @@
 <h1 align="center">Welcome to Nyaru's Official Github Organization 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-4.0.0-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-4.0.7-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/NyaruDB/bot#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+  <a href="https://go.nyaru.xyz/invite" target="_blank">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Users-621k+-green.svg" />
+  </a>
+  <a href="https://go.nyaru.xyz/invite" target="_blank">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Guild Count-2.1k+-green.svg" />
+  </a>
+  </a>
+  <a href="https://go.nyaru.xyz/invite" target="_blank">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Channel Count-708k+-green.svg" />
   </a>
   <a href="https://github.com/NyaruDB/bot/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://github.com/NyaruDB/bot/blob/master/LICENSE" target="_blank">
-    <img alt="License: ISC" src="https://img.shields.io/github/license/NyaruDB/Nyaru Discord Bot" />
+  <a href="https://go.nyaru.xyz/discord" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/discord/581997464752619521?color=%235865F2&label=Discord&logo=discord&logoColor=%23fff" />
   </a>
 </p>
 
