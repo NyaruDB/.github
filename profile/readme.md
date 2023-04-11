@@ -46,7 +46,7 @@
 
 👤 **HNG** (Technical & Cloud Server Engineer)
 
-- Github: [@hng4](https://github.com/hng4)
+- Github: [@hng1](https://github.com/hng4)
 
 ## Organization
 
