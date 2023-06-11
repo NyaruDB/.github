@@ -44,9 +44,9 @@
 
 - Github: [@KrishGarg](https://github.com/KrishGarg)
 
-👤 **HNG** (Technical & Cloud Server Engineer)
+👤 **HNG** (IaaS Manager / CSE)
 
-- Github: [@hng1](https://github.com/hng4)
+- Github: [@hng1](https://github.com/hng1)
 
 ## Organization
 
