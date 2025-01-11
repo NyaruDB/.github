@@ -28,25 +28,23 @@
 
 ## Authors
 
-⭐👤 **Sarvesh M Rao** (Lead Developer)
 
-- Github: [@Sarveshmrao](https://github.com/Sarveshmrao)
 
-⭐👤 **Naman Vrati** (Project Founder)
+⭐👤 **Naman Vrati** (Project Founder & CEO)
 
 - Github: [@NamVr](https://github.com/NamVr)
 
-⭐👤 **Leoner** (Developer)
+⭐👤 **Leoner** (Lead Developer & CTO)
 
 - Github: [@Mr-Leonerrr](https://github.com/Mr-Leonerrr)
 
-👤 **Altered Demon** (Assistant Developer)
+👤 **Maghish** (Senior Developer)
 
-- Github: [@KrishGarg](https://github.com/KrishGarg)
+- Github: [@Maghish](https://github.com/Maghish)
 
-👤 **HNG** (IaaS Manager / CSE)
+- ⭐👤 **Sarvesh M Rao** (Asst. Developer)
 
-- Github: [@hng1](https://github.com/hng1)
+- Github: [@Sarveshmrao](https://github.com/Sarveshmrao)
 
 ## Organization
 
