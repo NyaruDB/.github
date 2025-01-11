@@ -66,7 +66,7 @@ Consider supporting us on patreon for [Nyaru Premium™](https://docs.nyaru.xyz/
 
 ## 📝 License
 
-Copyright © 2022 [Nyaru DB Developers](https://github.com/NyaruDB).<br />
+Copyright © 2025 [Nyaru DB Developers](https://github.com/NyaruDB).<br />
 This project is closed source.
 > Important: This org is for issues, reports and new feature requests only. Source of Nyaru will remain private as always!
 
