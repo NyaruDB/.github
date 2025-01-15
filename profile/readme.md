@@ -42,7 +42,7 @@
 
 - Github: [@Maghish](https://github.com/Maghish)
 
-- ⭐👤 **Sarvesh M Rao** (Asst. Developer)
+⭐👤 **Sarvesh M Rao** (Asst. Developer)
 
 - Github: [@Sarveshmrao](https://github.com/Sarveshmrao)
 
